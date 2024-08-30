@@ -1,7 +1,6 @@
 
 # Sales Analysis
 This project leverages Power BI to create an interactive and insightful sales analysis dashboard. The purpose is to provide key stakeholders with a comprehensive view of sales performance across various dimensions, enabling data-driven decision-making.
-This project doesn't use fake datasets related to the field of communication (such as IMSI / IMEI / TAC / SNR), but I would like to highlight this project that reviews concepts and topics that can be applied in any other project, and the part of the field of Tele-communication in this series is extremely limited.
 ## Key Features
 
 #### Home Page
